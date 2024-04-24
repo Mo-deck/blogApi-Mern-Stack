@@ -1,0 +1,5 @@
+Schema Analysis
+-----------------------------------------
+users -> username, email , password , date
+post -> title,content, userId, date.
+-----------------------------------------
